@@ -1,2 +1,2 @@
 # Case-study
-R&amp;matlab Code
+Python &amp;matlab Code
